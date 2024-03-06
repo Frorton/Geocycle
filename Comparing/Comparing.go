@@ -1,3 +1,4 @@
+// ❗ Does not yet support angles like seat tube angle etc ❗
 package Comparing
 
 import (
