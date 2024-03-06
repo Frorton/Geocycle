@@ -31,13 +31,13 @@ Run the program:
 
 `./geocycle-go`
 
-Usage
+### Usage
 
-    When prompted, input the geometry values for the first bike.
-    Repeat the process for the second bike.
-    The program will then compare the two bikes' geometry and provide an analysis of their differences.
+When prompted, input the geometry values for the first bike.
+Repeat the process for the second bike.
+The program will then compare the two bikes' geometry and provide an analysis of their differences.
 
-Contributing
+### Contributing
 
 Contributions are welcome! If you'd like to contribute to Geocycle Go, please fork the repository and submit a pull request.
 
