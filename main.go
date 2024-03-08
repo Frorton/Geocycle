@@ -1,8 +1,8 @@
 package main
 
 import (
-	"Golang/Projets/Geocycle/Comparing"
-	"Golang/Projets/Geocycle/Filling"
+	"Geocycle/Comparing"
+	"Geocycle/Filling"
 	"fmt"
 )
 

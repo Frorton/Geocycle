@@ -2,7 +2,7 @@
 package Comparing
 
 import (
-	"Golang/Projets/Geocycle/Filling"
+	"Geocycle/Filling"
 	"fmt"
 )
 
